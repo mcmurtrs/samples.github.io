@@ -1,2 +1,2 @@
 
-https://mcmurtrs.github.io/samples.github.io/Japan1247_ITS1.html
+https://mcmurtrs.github.io/samples.github.io/dataTables.html
